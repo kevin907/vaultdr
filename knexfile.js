@@ -19,7 +19,7 @@ module.exports = {
   },
 
   staging: {
-    client: 'pg',
+    client: 'postgresql',
     connection: {
       host: 'ec2-184-73-197-211.compute-1.amazonaws.com',
       database: 'da4lm1jl6mmb1i',
