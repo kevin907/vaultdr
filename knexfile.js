@@ -25,6 +25,7 @@ module.exports = {
       database: 'da4lm1jl6mmb1i',
       user:     'mcdkhzcavrfeic',
       password: 'd7153584472d61f360c735b07132364818a21cf1f17f2c0dfd6086caea811398'
+    },
     pool: {
       min: 2,
       max: 10
